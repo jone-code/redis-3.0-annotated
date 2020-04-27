@@ -1,5 +1,6 @@
 Redis 3.0 源码注释
 ============================
+http://blog.huangz.me/diary/2014/how-to-read-redis-source-code.html
 
 本项目是注释版的 Redis 3.0 源码，
 原始代码来自： https://github.com/antirez/redis 。
